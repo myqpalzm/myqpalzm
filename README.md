@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Check out my [portfolio](https://myqpalzm.github.io/portfolio/)!
+Check out my [portfolio (under construction)](https://myqpalzm.github.io/portfolio/)!
 
 <!--
 **myqpalzm/myqpalzm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
